@@ -1,6 +1,6 @@
 # System Media Controller for Alfred
 
-This is a simple nmeumonic workflow.
+This is a simple nnemonic workflow.
 
 ---
 
